@@ -4,10 +4,10 @@ Trabalho final da disciplina de Fundamentos de programação I 2024.1, Ministrad
 MODO INTERATIVO:
 No modo interativo, o programa deverá ser executado tendo que ler um arquivo de configuração (em
 modo texto) que contém a lista das pistas do jogo, podendo conter de 1 a 80 pistas, onde cada pista
-deve seguir o seguinte formato: <COL>,<LIN>: <NUMERO>
+deve seguir o seguinte formato: COL, LIN : NUMERO
 
-<COL> representa a coluna da grade, em letras maiúsculas de “A” a “I”. <LIN> representa a linha da
-grade, em algarismos de 1 a 9. E <NÚMERO> representa um número de 1 a 9 dado como pista para a
+COL representa a coluna da grade, em letras maiúsculas de “A” a “I”. LIN representa a linha da
+grade, em algarismos de 1 a 9. E NÚMERO representa um número de 1 a 9 dado como pista para a
 célula. O nome do arquivo texto a ser lido deverá ser informado como parâmetro ao programa
 principal. Por exemplo, se o usuário digitar no prompt o comando seguinte, o Python irá executar o
 programa sudoky.py e o arquivo de configuração que será lido será o arq_01_cfg.txt.
