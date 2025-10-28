@@ -15,15 +15,6 @@ programa sudoky.py e o arquivo de configuração que será lido será o arq_01_c
 
 % python3 sudoku.py arq_01_cfg.txt
 
-Após ler o arquivo de configuração das pistas, o programa deverá mostrar a grade do jogo, já
-preenchida com as pistas fornecidas no arquivo de configuração. Por exemplo, considerando o
-arquivo de configuração exemplificado abaixo:
-A,3: 5
-F,1: 3
-D,8: 7
-H,6: 5
-F,4: 4
-
 # COMO JOGAR?
 
 
