@@ -17,4 +17,9 @@ programa sudoky.py e o arquivo de configuração que será lido será o arq_01_c
 
 # COMO JOGAR?
 
+Como jogar no MODO INTERATIVO: Após Adicionado as dicas, as jogadas são feitas da seguinte forma: COL, LIN : NUMERO 
+Ex.: A,7: 2 
+O jogo está programado para ignorar eventuais erros de digitação como espaços em branco a mais, como "C , 8:1"
+
+
 
